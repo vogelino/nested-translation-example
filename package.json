@@ -1,0 +1,15 @@
+{
+  "name": "test-sam",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "vogelino <contact@vogelino.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "10.9.1"
+  }
+}
